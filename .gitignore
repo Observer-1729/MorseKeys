@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.vscode/
+.idea/
+*.log
+D:/Morse_Text/
